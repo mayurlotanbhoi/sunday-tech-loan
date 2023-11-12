@@ -1,0 +1,11 @@
+
+
+.custom-radio .form-check-input:checked {
+    background-color: gray; /* Change this to the selected color */
+    border-color: gray; /* Change this to the selected color */
+  }
+
+  .custom-radio .form-check-input {
+    background-color: gray; /* Change this to the default color */
+    border-color: gray; /* Change this to the default color */
+  }
